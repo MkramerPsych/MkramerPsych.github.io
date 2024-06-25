@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:63977/categories/</loc>
+    <loc>https://makramer.data/categories/</loc>
   </url><url>
-    <loc>http://localhost:63977/</loc>
+    <loc>https://makramer.data/</loc>
   </url><url>
-    <loc>http://localhost:63977/tags/</loc>
+    <loc>https://makramer.data/tags/</loc>
   </url>
 </urlset>
