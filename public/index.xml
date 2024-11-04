@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Max Kramer Personal Site</title>
-    <link>https://makramer.data/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Max Kramer Personal Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://makramer.data/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
