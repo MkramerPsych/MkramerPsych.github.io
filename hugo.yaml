@@ -1,4 +1,4 @@
-baseURL: "https://makramer.data"
+baseURL: "https://makramer.io"
 languageCode: "en-us"
 title: "Max Kramer Personal Site"
 theme: hugo-profile
@@ -136,7 +136,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: /resume/mk_cv_2023.pdf
+      url: /resume/MK_RESUME_2024.pdf
       download: true
       newPage: true
     socialLinks:
@@ -188,7 +188,7 @@ params:
           enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as an AI Dataset Engineer at [Reality Defender](https://realitydefender.com) in Pittsburgh, PA. I help construct and maintain audio datasets that assist in the detection of deepfaked audio."
+        content: "I am currently working as an AI Dataset Engineer at [Reality Defender](https://realitydefender.com). I construct and maintain infrastructure and datasets that assist in the detection of deepfaked audio. "
 
       - job: "Graduate Teaching Assistant"
         company: "University of Chicago"
@@ -251,7 +251,7 @@ params:
         featuredLink:
           enable: true
           name: "Masters Thesis"
-          url: "https://example.com"
+          url: "https://www.science.org/doi/10.1126/sciadv.add2981"
       - title: "Bachelor of Arts in Psychology and Computer Science"
         school:
           name: "Oberlin College, Oberlin OH"
@@ -261,11 +261,11 @@ params:
           - High honors in psychology
             - Thesis awarded RH Stetson Prize and Jerome Davis Grant
           - Published paper on nonsuicidal self-injury
-            - [link to publication]()
+            - [link to publication](https://journals.sagepub.com/doi/full/10.1177/23982128211058269#bibr18-23982128211058269)
         featuredLink:
           enable: true
           name: "Undergraduate Thesis"
-          url: "https://example.com"
+          url: "/documents/mk_thesis_with_full_appendix.pdf"
 
   # Achievements
   achievements:
@@ -291,7 +291,7 @@ params:
     items:
       - title: The Ravens Nest
         content: An ELO and queueing management bot for Discord servers.
-        image: /images/projects/profile.png
+        image: /images/projects/ravensnest.png
         featured:
           name: Invite the bot
           link: https://discord.com/oauth2/authorize?client_id=1283690474653220875
@@ -305,7 +305,7 @@ params:
 
       - title: Dotfiles
         content: A repository of my configurations for linux and MacOS as well as my preferred development tools.
-        image: /images/projects/converter.jpg
+        image: /images/projects/chezmoi.png
         badges:
           - "Git"
           - "Lua"
@@ -316,14 +316,14 @@ params:
 
       - title: makramer.io
         content: This website is managed entirely with Hugo and git, from design to deployment.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/makramerio.png
         badges:
           - "Hugo"
           - "Github"
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/MkramerPsych/mkramerpsych.github.io
 
   #Contact
   contact:
